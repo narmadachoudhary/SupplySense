@@ -1,0 +1,21 @@
+supplier_id,supplier_name,location,supplier_category,performance_profile
+SUP001,Alpha Electronics,Bengaluru,Electronics,High Risk
+SUP002,Vertex Components,Pune,Industrial,High Risk
+SUP003,Nova Industrial,Mumbai,Industrial,High Risk
+SUP004,Prime Logistics,Bengaluru,Technology,High Risk
+SUP005,Global Tech Supplies,Bengaluru,Technology,Medium Risk
+SUP006,Apex Manufacturing,Ahmedabad,Electronics,Medium Risk
+SUP007,Bright Source,Hyderabad,Electronics,Medium Risk
+SUP008,United Components,Mumbai,Industrial,Medium Risk
+SUP009,Reliable Goods,Hyderabad,Technology,Medium Risk
+SUP010,Metro Supply Co,Mumbai,Technology,Low Risk
+SUP011,Eastern Traders,Ahmedabad,Industrial,Low Risk
+SUP012,Smart Parts India,Kolkata,Technology,Low Risk
+SUP013,BlueLine Supplies,Pune,Electronics,Low Risk
+SUP014,Rapid Components,Chennai,Components,Low Risk
+SUP015,FutureTech Industries,Delhi,Packaging,Low Risk
+SUP016,Evergreen Supplies,Chennai,Industrial,Low Risk
+SUP017,Dynamic Distribution,Delhi,Electronics,Low Risk
+SUP018,Precision Parts,Bengaluru,Components,Low Risk
+SUP019,Summit Suppliers,Bengaluru,Packaging,Low Risk
+SUP020,Core Industrial,Delhi,Technology,Low Risk

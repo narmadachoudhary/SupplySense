@@ -1,0 +1,61 @@
+product_id,product_name,category,supplier_id,unit_cost,selling_price
+PRD001,Monitor Stand,Electronics,SUP015,8136.18,12919.46
+PRD002,RAM Module,Electronics,SUP018,4539.04,6503.94
+PRD003,SSD Drive,Office Equipment,SUP007,10627.66,12440.96
+PRD004,Mechanical Keyboard,Networking,SUP003,12858.7,19801.34
+PRD005,RAM Module,Networking,SUP015,9608.13,12626.76
+PRD006,SSD Drive,Networking,SUP007,10118.59,14832.02
+PRD007,USB-C Hub,Office Equipment,SUP006,8105.27,10213.98
+PRD008,Smart Sensor,Storage,SUP009,14844.95,21347.04
+PRD009,Router,Computer Accessories,SUP011,12674.21,19001.18
+PRD010,Mechanical Keyboard,Electronics,SUP011,6137.24,7240.62
+PRD011,Barcode Scanner,Networking,SUP007,9900.49,13148.19
+PRD012,Smart Sensor,Computer Accessories,SUP009,2266.53,3366.35
+PRD013,Router,Networking,SUP019,6540.82,9239.5
+PRD014,SSD Drive,Computer Accessories,SUP005,7740.99,9218.82
+PRD015,Wireless Mouse,Electronics,SUP005,9486.2,14290.35
+PRD016,Power Bank,Office Equipment,SUP003,5894.56,8359.37
+PRD017,Smart Sensor,Office Equipment,SUP009,14571.96,22402.22
+PRD018,Wireless Keyboard,Electronics,SUP018,11312.99,16922.76
+PRD019,Ethernet Cable,Electronics,SUP010,6634.53,8984.32
+PRD020,Monitor Stand,Office Equipment,SUP006,7713.69,9240.11
+PRD021,HDMI Cable,Office Equipment,SUP020,3143.88,4144.46
+PRD022,Laptop Stand,Office Equipment,SUP017,13793.7,19580.5
+PRD023,LED Panel,Electronics,SUP004,13950.66,21559.7
+PRD024,HDMI Cable,Computer Accessories,SUP002,3764.9,5290.85
+PRD025,USB-C Hub,Electronics,SUP016,12277.14,19521.79
+PRD026,Router,Computer Accessories,SUP005,9964.31,15704.57
+PRD027,Laptop Stand,Networking,SUP017,13112.01,17575.5
+PRD028,Web Camera,Office Equipment,SUP007,10751.64,14294.81
+PRD029,SSD Drive,Storage,SUP017,6881.99,8682.03
+PRD030,USB-C Hub,Networking,SUP001,8906.97,11165.35
+PRD031,Mechanical Keyboard,Electronics,SUP003,10676.05,12560.3
+PRD032,USB-C Hub,Electronics,SUP011,1248.69,1569.73
+PRD033,LED Panel,Computer Accessories,SUP018,2158.22,3390.52
+PRD034,Barcode Scanner,Office Equipment,SUP016,3796.36,5173.82
+PRD035,Power Bank,Computer Accessories,SUP004,1634.58,2196.83
+PRD036,Power Bank,Storage,SUP015,12984.78,15249.03
+PRD037,Bluetooth Speaker,Electronics,SUP013,10977.56,16579.04
+PRD038,Bluetooth Speaker,Computer Accessories,SUP007,3015.09,4076.03
+PRD039,Power Bank,Computer Accessories,SUP009,7046.9,10877.02
+PRD040,USB-C Hub,Storage,SUP018,1649.05,2380.35
+PRD041,Router,Electronics,SUP003,13910.23,21309.26
+PRD042,Laptop Stand,Storage,SUP016,7324.1,11272.47
+PRD043,Wireless Mouse,Computer Accessories,SUP013,231.9,307.43
+PRD044,Smart Sensor,Networking,SUP014,10509.55,15540.76
+PRD045,Router,Storage,SUP005,3010.49,3756.99
+PRD046,Wireless Mouse,Office Equipment,SUP018,1102.17,1423.04
+PRD047,Wireless Mouse,Office Equipment,SUP016,7642.19,11721.01
+PRD048,Laptop Stand,Electronics,SUP017,1385.65,1709.37
+PRD049,Thermal Printer,Electronics,SUP008,6175.88,9719.1
+PRD050,Barcode Scanner,Computer Accessories,SUP019,8998.88,12856.89
+PRD051,Power Bank,Office Equipment,SUP019,7937.18,12466.28
+PRD052,Web Camera,Networking,SUP008,4131.09,4994.05
+PRD053,HDMI Cable,Storage,SUP011,13949.47,21915.74
+PRD054,Wireless Keyboard,Storage,SUP020,14977.13,23937.1
+PRD055,USB-C Hub,Office Equipment,SUP007,7687.09,9298.35
+PRD056,SSD Drive,Electronics,SUP008,5669.0,6921.77
+PRD057,Router,Networking,SUP020,14761.03,22336.32
+PRD058,Network Switch,Electronics,SUP018,4630.81,6707.84
+PRD059,Power Adapter,Networking,SUP004,13367.75,19838.91
+PRD060,Power Adapter,Networking,SUP010,9151.48,13479.45
